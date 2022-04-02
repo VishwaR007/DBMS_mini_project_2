@@ -1,0 +1,32 @@
+.container1{
+    height: 100vh;
+    /* background-color: grey; */
+    background-image: url('imgs1/subPage2.jpg');
+    background-repeat: no-repeat;
+    background-size: 1538px 750px;
+}
+
+.middleContainer{
+    padding: 90px;
+}
+
+.insertButton{
+    display: flex;
+    justify-content: right;
+    padding-right: 70px;
+    margin-top: 60px;
+}
+
+thead tr th{
+    font-size: 30px;
+}
+
+.nammaTable{
+    background-color: rgba(102, 84, 84, 0.623);
+    border-radius: 30px;
+}
+
+.exit a{
+    margin-left: 80px;
+    width: 150px;
+}
